@@ -1,2 +1,3 @@
-var example = 'some string';
-console.log(example);
+//lesson 2
+var demoString = 'some string';
+console.log(demoString);
